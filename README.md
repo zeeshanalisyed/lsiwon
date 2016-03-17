@@ -1,2 +1,2 @@
 # lsiwon
-Isiwon is a repositary created just to learn basics of github.
+I am starting my work on github, so before even i will create my original repositories i will try test repositories. 
